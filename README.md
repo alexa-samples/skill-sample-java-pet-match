@@ -1,6 +1,9 @@
 Build an Alexa Pet Match Skill in ASK Java SDK
 ==============================================
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 In this workshop you will create a skill called Pet Match that matches the user with a pet. When launched, this Alexa Skill will prompt the user for the information it needs to determine a match. Once all of the required information is collected, it will send the data to an external web service which processes the data and returns the match.
